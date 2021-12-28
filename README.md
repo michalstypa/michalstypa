@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Michal 👋
 
-Check out [https://backtick.se][website]
+I code a lot of different things, mostly in python and JS/TS.
 
-![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalstypa&show_icons=true&&theme=dark&count_private=true)
+Psst! Check out my company [https://backtick.se][website], we're hiring!
 
 [website]: https://backtick.se
